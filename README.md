@@ -4,4 +4,5 @@ Requirements:
 - Eclipse / IntelliJ IDEA
 
 Run the app:
-Just "Play"
+1) Open runServer.bat
+2) Open runClient.bat
